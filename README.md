@@ -1,5 +1,3 @@
-# CamtineraryPublic
-
 # UserLocationAnnotationView.swift
 
 Using MKMapKit, displaying current user location pulsating dot of any color in Swift. 
